@@ -3,3 +3,4 @@ Hello,
 I am adding a line to make a new commit
 And now i am adding another :O
 
+Adam has added some info
